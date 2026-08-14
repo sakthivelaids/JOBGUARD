@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+joblib
+wordcloud
+matplotlib
